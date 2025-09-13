@@ -1,5 +1,3 @@
-Perfect! Here’s a **GitHub-optimized, visually appealing README** for your project. It uses headings, bold text, horizontal lines, emojis, and code blocks for clarity:
-
 ---
 
 # **🚨 Credit Card Fraud Detection**
@@ -86,7 +84,3 @@ F1-Score: 90.5%
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-If you want, I can also make a **super short 1-paragraph version** that’s **hackathon-ready** and fits neatly without scrolling much on GitHub.
-
-Do you want me to do that?

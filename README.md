@@ -4,20 +4,20 @@
 
 ---
 
-## **💡 Description**
+## ** Description**
 
 This project is a **Credit Card Fraud Detection system** that identifies fraudulent transactions using machine learning techniques. It analyzes transaction data to predict whether a transaction is **legitimate** or **fraudulent**, helping banks and financial institutions minimize fraud losses.
 
 ---
 
-## **📊 Dataset**
+## ** Dataset**
 
 The project uses the **Credit Card Fraud Detection dataset** from Kaggle:
 [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ---
 
-## **✨ Features**
+## ** Features**
 
 * Detects fraudulent credit card transactions with **high accuracy**.
 * Implements **data preprocessing**, **feature scaling**, and **machine learning models**.
@@ -26,12 +26,12 @@ The project uses the **Credit Card Fraud Detection dataset** from Kaggle:
 
 ---
 
-## **⚙️ Installation**
+## ** Installation**
 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ashwi0612/credit-card-fraud-detection
 cd <your-project-folder>
 ```
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ---
 
-## **▶️ Usage**
+## ** Usage**
 
 1. Run the main script:
 
@@ -58,13 +58,13 @@ python main.py
 
 ---
 
-## **📈 Sample Output**
+## ** Sample Output**
 
 * Example prediction:
 
 ```
 Transaction ID: 123456789
-Prediction: Fraudulent ✅
+Prediction: Fraudulent 
 Probability: 0.92
 ```
 
@@ -79,7 +79,7 @@ F1-Score: 90.5%
 
 ---
 
-## **📝 License**
+## ** License**
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
